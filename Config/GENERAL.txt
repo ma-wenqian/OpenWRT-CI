@@ -120,4 +120,4 @@ CONFIG_PACKAGE_usbmuxd=y
 CONFIG_PACKAGE_usbutils=y
 CONFIG_PACKAGE_xz-utils=y
 # 个人软件
-CONFIG_PACKAGE_luci-app-dockerman
+# CONFIG_PACKAGE_luci-app-dockerman
